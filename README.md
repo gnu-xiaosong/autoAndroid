@@ -64,5 +64,61 @@ function getControl(depth1,className1,indexInParent1,drawingOrder1){
 
        //单行获取
 
-       
+       is=className(className1).indexInParent(indexInParent1).drawingOrder(drawingOrder1).bounds(41,377,1039,451).exists();
+
+       if(is){
+
+       text=className(className1).indexInParent(indexInParent1).drawingOrder(drawingOrder1).bounds(41,377,1039,451).findOne().getText();
+
+       break;
+
+       }
+
+       //当遍历完还找到控件也采用bounds获取(两行)
+
+       is=className(className1).indexInParent(indexInParent1).drawingOrder(drawingOrder1).bounds(41,377,1039,523).exists();
+
+       if(is){
+
+       //匹配控件成功
+
+       text=className(className1).indexInParent(indexInParent1).drawingOrder(drawingOrder1).bounds(41,377,1039,523).findOne().getText();
+
+       break;
+
+       }
+
+       //三行获取
+
+       is=className(className1).indexInParent(indexInParent1).drawingOrder(drawingOrder1).bounds(41,377,1039,592).exists();
+
+       if(is){
+
+       text=className(className1).indexInParent(indexInParent1).drawingOrder(drawingOrder1).bounds(41,377,1039,592).findOne().getText();
+
+       break;
+
+       }
+
+       }
+
+     /***************bounds匹配控件↑↑↑↑↑↑**********/
+
+     
+
+     }
+
+   }else{
+
+   //控件存在
+
+   text=className(className1).indexInParent(indexInParent1).drawingOrder(drawingOrder1).depth(depth1).findOne().getText();
+
+   }
+
+   return text;
+
+}
+
+
 ```
