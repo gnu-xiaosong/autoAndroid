@@ -122,4 +122,4 @@ function getControl(depth1,className1,indexInParent1,drawingOrder1){
 
 
 ```
-# 添加去除智慧树刷课弹题脚本
+# 添加去除安卓端智慧树刷课弹题脚本
