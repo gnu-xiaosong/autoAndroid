@@ -12,7 +12,10 @@
  * 2.实用的第三方支付软件监控(暂时仅支付宝)，可自定义监控url
  * 3.实用小工具，eg:qq刷屏，qq消息监控等自动化场景
 # 演示
-
+事例1:
+[![DlOAld.md.gif](https://s3.ax1x.com/2020/11/21/DlOAld.md.gif)](https://imgchr.com/i/DlOAld)
+事例2:
+[![DlON7V.md.gif](https://s3.ax1x.com/2020/11/21/DlON7V.md.gif)](https://imgchr.com/i/DlON7V)
 # 权限
  * 需要开启无障碍模式
  * 部分功能需要后台弹出界面权限
