@@ -1,5 +1,5 @@
-## 一款适用于安卓的自动化软件工具。无需root权限。内置丰富自动化场景需求，满足您的日常需求。
-
+# 安卓自动脚本神器---实现安卓自动答题
+## 说明: 一款适用于安卓的自动化软件工具。无需root权限。内置丰富自动化场景需求，满足您的日常需求。
 
 
 # 权限
@@ -16,7 +16,6 @@
 # 关键代码
 ```
 //控件暴力获取方法
-
 function getControl(depth1,className1,indexInParent1,drawingOrder1){
 
 /*****************控件获取↓↓↓↓↓↓↓↓************************************/
@@ -74,8 +73,6 @@ function getControl(depth1,className1,indexInParent1,drawingOrder1){
    return text;
 
 }
-
-
 ```
 # 更新日志
 ## 2020.10.15-添加去除安卓端智慧树刷课弹题脚本
