@@ -16,6 +16,8 @@
 [![DlOAld.md.gif](https://s3.ax1x.com/2020/11/21/DlOAld.md.gif)](https://imgchr.com/i/DlOAld)
 事例2:
 [![DlON7V.md.gif](https://s3.ax1x.com/2020/11/21/DlON7V.md.gif)](https://imgchr.com/i/DlON7V)
+事例3:
+[![D1S1pT.md.gif](https://s3.ax1x.com/2020/11/21/D1S1pT.md.gif)](https://imgchr.com/i/D1S1pT)
 # 权限
  * 需要开启无障碍模式
  * 部分功能需要后台弹出界面权限
