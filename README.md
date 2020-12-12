@@ -12,7 +12,8 @@
  * 2.实用的第三方支付软件监控(暂时仅支付宝)，可自定义监控url
  * 3.实用小工具，eg:qq刷屏，qq消息监控等自动化场景
 # 下载
-apk在src目录下，点击下载即可
+apk在apk目录下，点击下载即可
+工程脚本源码在src目录下
 # 演示
 事例1:
 [![DlOAld.md.gif](https://s3.ax1x.com/2020/11/21/DlOAld.md.gif)](https://imgchr.com/i/DlOAld)
