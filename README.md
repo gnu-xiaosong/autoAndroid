@@ -97,7 +97,7 @@ apk在apk目录下，点击下载最新版本
   |成语|触发查询成语接口|不能是非成词语，否则无法查询到|成语一生一世|
   |热点|触发查询新闻头条接口|默认为TOP，后接新闻类别|热点军事|
 ###### 演示1:
-
+[![rtNc8A.md.jpg](https://s3.ax1x.com/2020/12/19/rtNc8A.md.jpg)](https://imgchr.com/i/rtNc8A)
 ###### 热点具体类别:
 |类别|例子|说明|
 |  ----  |  ----  |  ----  |
@@ -111,6 +111,7 @@ apk在apk目录下，点击下载最新版本
 |财经|热点财经|无|
 |时尚|热点时尚|无|
 ###### 演示2:
+[![rtNWKP.md.jpg](https://s3.ax1x.com/2020/12/19/rtNWKP.md.jpg)](https://imgchr.com/i/rtNWKP)
 # 演示图片
 事例1:
 [![DlOAld.md.gif](https://s3.ax1x.com/2020/11/21/DlOAld.md.gif)](https://imgchr.com/i/DlOAld)
