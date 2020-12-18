@@ -6,7 +6,7 @@
 ## 功能说明介绍:
 ### qq机器人建议安装vmos虚拟机，安装pro版本(更加轻量不占用内存)，百度搜索即可下载
 注意在下载rom虚拟机的时候请选择安卓版本大于7.0的版本，否则功能无法使用！！详细安装vmos并导入软件安装步骤如下:
-* 1.下载vmos:http://www.vmos.cn/product_center_vmospro.html
+* 1.下载vmos虚拟机:http://www.vmos.cn/product_center_vmospro.html
 * 2.添加并选择安装安卓虚拟机(版本一定要大于7.0)
 * 3.打开虚拟机并导入软件autoAndroid和QQ
 * 4.打开软件获取通知权限和无障碍权限
