@@ -86,7 +86,7 @@ apk在apk目录下，点击下载最新版本
 * 5.登陆qq(建议用自己的小号登陆)，并且确保qq拥有通知栏权限。
 * 6.最后就可以正常使用软件了。
 * 注意:如果在上述步骤完成后软件报错或任然无法正常使用请联系我。
-* 演示教程:
+* 演示教程:[演示](http://www.bilibili.com/video/BV1Mz4y1r7bw?share_medium=android&share_source=copy_link&bbid=XYF0B2CF638ABC2E40EFF964306BEAA56517F&ts=1608367265946)
 ###### 默认模式下触发关键词:
 |开头关键词|触发接口|说明|例子|
 |  ----    | ----   |  ----   | ---- |
