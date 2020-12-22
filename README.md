@@ -122,7 +122,9 @@ apk在apk目录下，点击下载最新版本
 [![DlON7V.md.gif](https://s3.ax1x.com/2020/11/21/DlON7V.md.gif)](https://imgchr.com/i/DlON7V)
 事例3:
 [![D1S1pT.md.gif](https://s3.ax1x.com/2020/11/21/D1S1pT.md.gif)](https://imgchr.com/i/D1S1pT)
-## 解决方案:
+#### qq小号机器人配置说明:
+
+# 解决方案:
  * 1.拷贝源码导入到autojs中运行，可以减少机型的不适配问题
 # Bug:
  * 1.大部分机型不适配，最新适配小米10
